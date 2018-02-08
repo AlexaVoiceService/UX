@@ -1,5 +1,5 @@
 ---
-title: '12. Modify your AFML behavior'
+title: 'Modify your Focus Manager'
 
 
 layout: nil
