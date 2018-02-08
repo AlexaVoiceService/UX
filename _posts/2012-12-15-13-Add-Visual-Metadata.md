@@ -1,5 +1,5 @@
 ---
-title: 'Add Visual Meta-data using Display Cards'
+title: 'Add Visual Data to your Device'
 
 
 layout: nil
