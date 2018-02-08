@@ -1,5 +1,5 @@
 ---
-title: '11. Add a Customized Sound on State Change'
+title: 'Add Sounds to Indicate Device State'
 
 
 layout: nil
